@@ -1,0 +1,14 @@
+{
+  "tv": {
+    "banner": "0",
+    "fullscreen": "0",
+    "fullscreen_interval": "0",
+    
+  },
+  "smartphone": {
+    "banner": "0",
+    "fullscreen": "0",
+    "fullscreen_interval": "0",
+    
+  }
+}
