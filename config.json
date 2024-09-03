@@ -1,11 +1,11 @@
 {
-  "version": 4,
+  "version": 5,
   "tv": {
-    "banner": 0,
+    "banner": 1,
     "fullscreen_interval": 1000
   },
   "smartphone": {
-    "banner": 0,
-    "fullscreen_interval": 1000
+    "banner": 1,
+    "fullscreen_interval": 1
   }
 }
